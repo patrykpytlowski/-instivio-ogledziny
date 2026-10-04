@@ -3,11 +3,11 @@ const CORE=[
   './',
   './index.html',
   './manifest.webmanifest',
-  './assets/logo.jpg',
-  './assets/icon-192.png',
-  './assets/icon-512.png',
-  './assets/icon-maskable-512.png',
-  './assets/apple-touch-icon.png'
+  './logo.jpg',
+  './icon-192.png',
+  './icon-512.png',
+  './icon-maskable-512.png',
+  './apple-touch-icon.png'
 ];
 
 self.addEventListener('install', event => {
