@@ -2,7 +2,7 @@
   "id": "./",
   "name": "INSTIVIO Oględziny",
   "short_name": "Oględziny",
-  "description": "Mobilne oględziny i pomiary dla INSTIVIO.",
+  "description": "Mobilne oględziny, pomiary i prosty projekt 2D dla INSTIVIO.",
   "lang": "pl-PL",
   "start_url": "./index.html",
   "scope": "./",
